@@ -94,6 +94,20 @@
 
 <img src="assets/divider.svg" width="100%" />
 
+<!-- ================= PINNED PROJECTS ================= -->
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/Fahim007-cloud/outagemap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=outagemap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
+<a href="https://github.com/Fahim007-cloud/absentees-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=absentees-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
+<a href="https://github.com/Fahim007-cloud/inventory-and-billing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=inventory-and-billing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
+<a href="https://github.com/Fahim007-cloud/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
 
@@ -186,6 +200,8 @@ Continuously learning, experimenting with new technologies, and building useful 
 </table>
 
 <img src="https://streak-stats.demolab.com?user=Fahim007-cloud&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub contribution streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Contribution summary" />
 
 </div>
 
