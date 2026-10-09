@@ -15,6 +15,8 @@
 </table>
 
 <a href="https://github.com/Fahim007-cloud"><img src="https://img.shields.io/badge/GitHub-Fahim007--cloud-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fahim-hassan-6b1801381"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hassan-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:fahimhassan758@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 <img src="https://img.shields.io/github/followers/Fahim007-cloud?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=Fahim007-cloud&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -162,34 +164,42 @@ Continuously learning, experimenting with new technologies, and building useful 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Statistics
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%" align="center" valign="top">
+<img src="https://github.com/Fahim007-cloud.png" width="64" style="border-radius:50%" alt="Fahim007-cloud" />
+<br/><b>Fahim007-cloud</b>
+<br/><br/>
 
-<img src="https://github.com/Fahim007-cloud.png" width="48" />
-
-**Fahim007-cloud**
-<br/>[Your GitHub Profile](https://github.com/Fahim007-cloud)
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.public_repos&label=Total%20Repositories&color=0d1117&labelColor=0d1117&style=for-the-badge" />
-<br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.public_repos&label=Repositories&color=0d1117&labelColor=0d1117&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Fahim007-cloud?label=Followers&color=0d1117&labelColor=0d1117&style=for-the-badge" />
-<br/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.following&label=Following&color=0d1117&labelColor=0d1117&style=for-the-badge" />
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Fahim007-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&include_all_commits=true&count_private=true&cache_seconds=1800" width="100%" alt="GitHub statistics" />
 </td>
-
-<td width="33%" align="center" valign="top">
-<img src="https://streak-stats.demolab.com?user=Fahim007-cloud&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim007-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&langs_count=8&cache_seconds=1800" width="100%" alt="Most used languages" />
 </td>
-
-<td width="33%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim007-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff" width="100%" />
-</td>
-
 </tr>
 </table>
+
+<img src="https://streak-stats.demolab.com?user=Fahim007-cloud&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub contribution streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fahim007-cloud&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahim007-cloud&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b9eff&line=38bdf8&point=ffffff&area=true" width="100%" alt="Contribution activity graph" />
+
+</div>
 
 <div align="center">
 
@@ -222,9 +232,17 @@ Continuously learning, experimenting with new technologies, and building useful 
 
 ## 🔗 Connect With Me
 
+<p>
 <a href="https://github.com/Fahim007-cloud"><img src="https://img.shields.io/badge/GitHub-Fahim007--cloud-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/fahim-hassan-6b1801381"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hassan-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:fahimhassan758@gmail.com"><img src="https://img.shields.io/badge/Email-fahimhassan758@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Opportunities-0d1117?style=for-the-badge" />
+
+<br/>
 
 **`</>` Code. Learn. Build. Repeat. 🚀**
 
