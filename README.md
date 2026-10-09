@@ -111,14 +111,14 @@ A student attendance tracking application designed to simplify absence managemen
 
 <td width="25%" valign="top">
 
-<img src="assets/speak-learn-grow.svg" width="100%" />
+<img src="assets/inventory-billing.svg" width="100%" />
 
-### [AI English Speaking Assistant ↗](https://github.com/Fahim007-cloud?tab=repositories)
-An AI-powered English learning app concept focused on conversation practice and language corrections in English and Tamil.
+### [Inventory & Billing ↗](https://github.com/Fahim007-cloud/inventory-and-billing)
+An inventory management and billing application for tracking stock and generating bills.
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![Web Speech](https://img.shields.io/badge/Web_Speech-0d1117?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Inventory](https://img.shields.io/badge/Inventory-0d1117?style=flat-square)
+![Billing](https://img.shields.io/badge/Billing-0d1117?style=flat-square)
 
 </td>
 
