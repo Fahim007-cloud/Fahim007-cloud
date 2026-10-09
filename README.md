@@ -177,7 +177,7 @@ Continuously learning, experimenting with new technologies, and building useful 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Fahim007-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&include_all_commits=true&count_private=true&cache_seconds=1800" width="100%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fahim007-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&cache_seconds=1800" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim007-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&langs_count=8&cache_seconds=1800" width="100%" alt="Most used languages" />
