@@ -85,10 +85,9 @@ Building projects, exploring technologies, and turning ideas into reality.
 
 <td width="25%" valign="top">
 
-<!-- Replace with a real screenshot: ![OutageMap](assets/outagemap.png) -->
-<img src="https://placehold.co/400x220/0d1b2a/3b9eff?text=OutageMap" width="100%" />
+<img src="assets/outagemap.svg" width="100%" />
 
-### [OutageMap ↗](https://github.com/Fahim007-cloud/OutageMap)
+### [OutageMap ↗](https://github.com/Fahim007-cloud/outagemap)
 A web application concept for monitoring internet and service outages.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -99,9 +98,9 @@ A web application concept for monitoring internet and service outages.
 
 <td width="25%" valign="top">
 
-<img src="https://placehold.co/400x220/e8f1fb/1d4ed8?text=Student+Absentees+Tracker" width="100%" />
+<img src="assets/absentees-tracker.svg" width="100%" />
 
-### [Student Absentees Tracker ↗](https://github.com/Fahim007-cloud/Student-Absentees-Tracker)
+### [Student Absentees Tracker ↗](https://github.com/Fahim007-cloud/absentees-tracker)
 A student attendance tracking application designed to simplify absence management.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -112,9 +111,9 @@ A student attendance tracking application designed to simplify absence managemen
 
 <td width="25%" valign="top">
 
-<img src="https://placehold.co/400x220/4c1d95/ffffff?text=Speak+Learn+Grow" width="100%" />
+<img src="assets/speak-learn-grow.svg" width="100%" />
 
-### [AI English Speaking Assistant ↗](https://github.com/Fahim007-cloud/AI-English-Speaking-Assistant)
+### [AI English Speaking Assistant ↗](https://github.com/Fahim007-cloud?tab=repositories)
 An AI-powered English learning app concept focused on conversation practice and language corrections in English and Tamil.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
@@ -152,7 +151,18 @@ Continuously learning, experimenting with new technologies, and building useful 
 <tr>
 
 <td width="33%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Fahim007-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=stars,commits,prs,issues&hide_title=false&custom_title=Fahim007-cloud" width="100%" />
+
+<img src="https://github.com/Fahim007-cloud.png" width="48" />
+
+**Fahim007-cloud**
+<br/>[Your GitHub Profile](https://github.com/Fahim007-cloud)
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.public_repos&label=Total%20Repositories&color=0d1117&labelColor=0d1117&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/github/followers/Fahim007-cloud?label=Followers&color=0d1117&labelColor=0d1117&style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.following&label=Following&color=0d1117&labelColor=0d1117&style=for-the-badge" />
+
 </td>
 
 <td width="33%" align="center" valign="top">
