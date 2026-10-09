@@ -192,16 +192,12 @@ Continuously learning, experimenting with new technologies, and building useful 
 </table>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahim007-cloud&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="Contribution graph" />
-</div>
-
-<div align="center">
 
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Fahim007-cloud/Fahim007-cloud/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
 
 ### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Fahim007-cloud&theme=onedark&no-frame=true&no-bg=true&row=7&column=7&margin-w=8" alt="Trophies" />
+<img src="assets/achievements.svg" width="100%" alt="Achievements" />
 
 </div>
 
