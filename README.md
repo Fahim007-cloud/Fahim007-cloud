@@ -1,5 +1,5 @@
 <!-- Save as README.md in the repo named exactly: Fahim007-cloud -->
-<!-- Needs in /assets: header.svg, footer.svg, outagemap.svg, absentees-tracker.svg, inventory-billing.svg -->
+<!-- Needs in /assets: header, footer, divider, skills, outagemap, absentees-tracker, inventory-billing (.svg) -->
 
 <div align="center">
 
@@ -66,7 +66,31 @@
 </tr>
 </table>
 
-<br/>
+<img src="assets/divider.svg" width="100%" />
+
+<!-- ================= CURRENTLY ================= -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ⚡ Currently
+
+- 🔭 Working on: **OutageMap** & **Inventory and Billing**
+- 📚 Learning: **React, Java, OOP**
+- 🤝 Looking to: **collaborate on open-source projects**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python**
+- 🌱 Next up: **deploying full-stack apps**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/skills.svg" width="100%" alt="Learning progress" />
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" />
 
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -171,7 +195,17 @@ Continuously learning, experimenting with new technologies, and building useful 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahim007-cloud&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="Contribution graph" />
 </div>
 
-<br/>
+<div align="center">
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Fahim007-cloud/Fahim007-cloud/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Fahim007-cloud&theme=onedark&no-frame=true&no-bg=true&row=7&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
 
 <!-- ================= GOALS + CONNECT ================= -->
 <table>
