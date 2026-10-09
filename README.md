@@ -94,20 +94,6 @@
 
 <img src="assets/divider.svg" width="100%" />
 
-<!-- ================= PINNED PROJECTS ================= -->
-## 📌 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/Fahim007-cloud/outagemap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=outagemap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
-<a href="https://github.com/Fahim007-cloud/absentees-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=absentees-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
-<a href="https://github.com/Fahim007-cloud/inventory-and-billing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=inventory-and-billing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
-<a href="https://github.com/Fahim007-cloud/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim007-cloud&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&description_lines_count=2" width="49%" /></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
 
@@ -188,34 +174,9 @@ Continuously learning, experimenting with new technologies, and building useful 
 <img src="https://img.shields.io/github/followers/Fahim007-cloud?label=Followers&color=0d1117&labelColor=0d1117&style=for-the-badge" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fahim007-cloud&query=$.following&label=Following&color=0d1117&labelColor=0d1117&style=for-the-badge" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Fahim007-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&icon_color=38bdf8&cache_seconds=1800" width="100%" alt="GitHub statistics" />
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim007-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b9eff&langs_count=8&cache_seconds=1800" width="100%" alt="Most used languages" />
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Fahim007-cloud/Fahim007-cloud/main/metrics.svg" width="100%" alt="GitHub metrics" />
 
 <img src="https://streak-stats.demolab.com?user=Fahim007-cloud&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub contribution streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Contribution summary" />
-
-<table>
-<tr>
-<td width="34%" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Repos per language" />
-</td>
-<td width="34%" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Most commit language" />
-</td>
-<td width="32%" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim007-cloud&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive time" />
-</td>
-</tr>
-</table>
 
 </div>
 
