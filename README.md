@@ -52,17 +52,17 @@
 
 ## `</>` Tech Stack
 
-**Frontend Development**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="48" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="48" />
 
-**Programming Language**<br/>
-<img src="https://skillicons.dev/icons?i=java,python" height="48" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="48" />
 
-**Database & Backend Services**<br/>
-<img src="https://skillicons.dev/icons?i=supabase,firebase" height="48" />
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql" height="48" />
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,docker" height="48" />
 
 </td>
 </tr>
@@ -202,6 +202,20 @@ Continuously learning, experimenting with new technologies, and building useful 
 <img src="https://streak-stats.demolab.com?user=Fahim007-cloud&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub contribution streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Contribution summary" />
+
+<table>
+<tr>
+<td width="34%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Repos per language" />
+</td>
+<td width="34%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahim007-cloud&theme=tokyonight" width="100%" alt="Most commit language" />
+</td>
+<td width="32%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim007-cloud&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive time" />
+</td>
+</tr>
+</table>
 
 </div>
 
